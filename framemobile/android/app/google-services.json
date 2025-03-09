@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "981994564753",
+    "project_id": "onlineshoppings-26f37",
+    "storage_bucket": "onlineshoppings-26f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981994564753:android:dbe847ed6a502287dfe330",
+        "android_client_info": {
+          "package_name": "com.example.framemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981994564753-utlahaj597enqujr4a6m1n21qaop396g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywMJEh_J7rl6V7CP0qoIbFgYKqYIpZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981994564753-nuidnrgm1l28cne8dvtp7kh5jfa3anj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981994564753-14gh2le04emcsqoetsq6pgf8hc3hp075.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileFrame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
